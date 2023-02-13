@@ -1,0 +1,15 @@
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\bin\Debug\net7.0\Example002.exe
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\bin\Debug\net7.0\Example002.deps.json
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\bin\Debug\net7.0\Example002.runtimeconfig.json
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\bin\Debug\net7.0\Example002.dll
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\bin\Debug\net7.0\Example002.pdb
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.csproj.AssemblyReference.cache
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.AssemblyInfoInputs.cache
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.AssemblyInfo.cs
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.csproj.CoreCompileInputs.cache
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.dll
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\refint\Example002.dll
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.pdb
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\Example002.genruntimeconfig.cache
+Y:\личное\курсы\Разработчик\Лекции\C#\Less1\Example002\obj\Debug\net7.0\ref\Example002.dll
